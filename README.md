@@ -21,6 +21,7 @@ The factors combine to lead to considerable underestimation of estimated Hs 10-y
 # Main paper files hosted on Overleaf.com.
 
 # R script files used to generate figures.
-ggplot_buoy_map.R
-paired_analysis_MDPI.R
-plot_L2_buoy_series_MDPI.R
+> ggplot_buoy_map.R
+> paired_analysis_MDPI.R
+> plot_L2_buoy_series_MDPI.R
+
